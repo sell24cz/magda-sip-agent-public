@@ -2,6 +2,12 @@
 
 An experimental Python SIP voice agent for learning, testing, and fun.
 
+> **Project vision:** The full version is designed to integrate an AI intent
+> layer and an external automation system. This will allow the agent to check
+> services and customer devices, run approved recovery actions, verify the
+> result, and escalate unresolved cases. The public version provides the core
+> SIP, audio, speech recognition, DTMF, and dialog workflow.
+
 Magda answers SIP calls, plays IVR prompts, records caller speech, detects the
 end of speech with Silero VAD, transcribes Polish audio with faster-whisper,
 and follows a small demonstration dialog tree.
