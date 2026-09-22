@@ -1,0 +1,3 @@
+# Dane demonstracyjne do lokalnej weryfikacji.
+PESEL_LAST4=5359
+INSTALL_CODE=40216
